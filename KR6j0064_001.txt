@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:06.407738
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:10
 #+TITLE: 蘇悉地羯羅供養法
 #+PROPERTY: CBETA_ID T18n0894b
 #+PROPERTY: ID KR6j0064
@@ -99,9 +99,9 @@
 　次作慈等觀¶
 　思惟六念法
 　如是等次第¶
-　我今略詮竟
+　我今略詮竟」
 #+END_VERSE
-」¶
+¶
 
 見神室處者。謂入漫荼羅。散華所墮。歸依彼¶
 尊。¶
